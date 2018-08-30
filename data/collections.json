@@ -1,0 +1,48 @@
+{
+	"_id" : ObjectId("5b14957ebac2c031a85ee79e"),
+	"cid" : 1,
+	"names" : "宝马",
+	"__v" : 0
+},
+
+{
+	"_id" : ObjectId("5b14958bbac2c031a85ee79f"),
+	"cid" : 2,
+	"names" : "奥迪",
+	"__v" : 0
+},
+
+{
+	"_id" : ObjectId("5b149592bac2c031a85ee7a0"),
+	"cid" : 3,
+	"names" : "大众",
+	"__v" : 0
+},
+
+{
+	"_id" : ObjectId("5b149598bac2c031a85ee7a1"),
+	"cid" : 4,
+	"names" : "昌河",
+	"__v" : 0
+},
+
+{
+	"_id" : ObjectId("5b1495a0bac2c031a85ee7a2"),
+	"cid" : 5,
+	"names" : "东风",
+	"__v" : 0
+},
+
+{
+	"_id" : ObjectId("5b1495abbac2c031a85ee7a3"),
+	"cid" : 6,
+	"names" : "一汽",
+	"__v" : 0
+},
+
+{
+	"_id" : ObjectId("5b14a02d062c0c26a49a837c"),
+	"cid" : 7,
+	"names" : "奔驰",
+	"__v" : 0
+}
